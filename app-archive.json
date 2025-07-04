@@ -1,0 +1,44 @@
+{
+    "appName": "Course Explorer",
+    "description": "Course Explorer is an application that helps students, teachers, and co-teachers organize and manage their assigned courses along with related activities and resources.",
+    "items": [
+        {
+            "version": "1.0.6",
+            "shortVersion": 7,
+            "changes": [
+                {
+                    "type": "feat",
+                    "message": "Enhanced assignment dashboard with better due date tracking"
+                },
+                {
+                    "type": "feat",
+                    "message": "Real-time grade updates"
+                },
+                {
+                    "type": "feat",
+                    "message": "Improved content navigation and search functionality"
+                },
+                {
+                    "type": "feat",
+                    "message": "Custom avatar selection with themed collections"
+                },
+                {
+                    "type": "feat",
+                    "message": "Added new update server for future air updates"
+                },
+                {
+                    "type": "fix",
+                    "message": "Optimized mobile experience with responsive design"
+                },
+                {
+                    "type": "fix",
+                    "message": "Reactivated email service notification"
+                }
+            ],
+            "date": "2025-07-4",
+            "mandatory": false,
+            "url": "https://omarXzain.github.io/course-explorer-updates/releases/1.0.6+7-windows",
+            "platform": "windows"
+        }
+    ]
+}

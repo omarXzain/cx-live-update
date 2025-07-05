@@ -3,7 +3,7 @@
     "description": "Course Explorer is an application that helps students, teachers, and co-teachers organize and manage their assigned courses along with related activities and resources.",
     "items": [
         {
-            "version": "1.0.6",
+            "version": "1.0.5",
             "shortVersion": 7,
             "changes": [
                 {
@@ -36,7 +36,7 @@
                 }
             ],
             "date": "2025-07-4",
-            "mandatory": false,
+            "mandatory": true,
             "url": "https://omarXzain.github.io/cx-live-update/releases/1.0.6+7-windows",
             "platform": "windows"
         }
